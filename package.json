@@ -1,0 +1,19 @@
+{
+  "name": "tutorial-angular",
+  "version": "1.0.0",
+  "description": "angular-tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HiroTakahashi31/tutorial-angular.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HiroTakahashi31/tutorial-angular/issues"
+  },
+  "homepage": "https://github.com/HiroTakahashi31/tutorial-angular#readme"
+}
